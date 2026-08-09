@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.venv/
+.huggingface
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
